@@ -1,0 +1,124 @@
+    1  #apt-get install git
+    2  apt instal zsh
+    3  apt install zsh
+    4  sudo apt install zsh
+    5  sudo apt install curl
+    6  curl --version
+    7  curl - fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh; zsh
+    8  https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh
+    9  sh -c “$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+   10  sudo apt install git-core zsh
+   11  sudo apt install fonts-powerline
+   12  sh -c “$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+   13  sudo apt update
+   14  sudo apt upgrade
+   15  sudo apt install git
+   16  git -version
+   17  git --version
+   18  git config --global user.name "Bradley"
+   19  git config --global user.email "zainbradleyblack@gmail.com"
+   20  git config --list
+   21  sudo apt install git all
+   22  git --version
+   23  apt update
+   24  git apt update
+   25  git --help
+   26  sudo apt install git-all
+   27  git --version
+   28  git config --global core.editor "code --wait"
+   29  git config --list
+   30  git config <key>
+   31  git help config
+   32  cd /home/documents/UmuziRepo
+   33  cd /home/documents
+   34  cd /home/user
+   35  cd /home/user/my_project
+   36  code
+   37  git config --global -e
+   38  git config --global core.autocrlf input
+   39  ~documents
+   40  cd ~documents
+   41  mkdir UmuziProjects
+   42  cd UmuziProjects
+   43  git init
+   44  echo hello > Getting_started.txt
+   45  echo $SHELL
+   46  chsh -s $(which zsh)
+   47  echo $SHELL
+   48  chsh -s $(which zsh)
+   49  echo $SHELL
+   50  chsh -s $(which zsh)
+   51  sudo apt install wget curl
+   52  sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+   53  ls
+   54  ls /
+   55  ls
+   56  pwd
+   57  cd UmuziProjects
+   58  cd /home/bradley
+   59  cd UmuziProjects
+   60  cd ..
+   61  man cd
+   62  man ls
+   63  cd ..
+   64  cd /bradley/
+   65  ce bradley
+   66  cd bradley
+   67  rmdir UmuziProjects
+   68  cd UmuziDirectory
+   69  cd UmuziProjects
+   70  ls -a
+   71  pwd
+   72  cd Documents
+   73  mkdir "git-basic-exercises"
+   74  cd git-basic-exercises
+   75  ls -a
+   76  git init
+   77  ls -a
+   78  git status
+   79  touch README.md
+   80  ls -a
+   81  git status
+   82  git log
+   83  git add README.md
+   84  git status
+   85  git commit -m "initial commit"
+   86  git log
+   87  q
+   88  nano README.md
+   89  cat README.md
+   90  git status
+   91  git commit -m "second commit"
+   92  git add README.txt
+   93  git add README.md
+   94  git status
+   95  git commit -m "second commit"
+   96  nano README.md
+   97  git add README.md
+   98  git status
+   99  git commit -m "third commit"
+  100  git log
+  101  git checkout 72a125830d6f1f859c4b77a725dee86d109ca0a6
+  102  cat README.md
+  103  git checkout main
+  104  git checkout master
+  105  cat README.md
+  106  git branch
+  107  git branch milkshake-flavours
+  108  git branch
+  109  git checkout milkshake-flavours
+  110  git branch
+  111  nano milkshakes.md
+  112  cat milkshakes.md
+  113  git status
+  114  git add milkshake.md
+  115  git add milkshakes.md
+  116  git commit -m "added initial flavours"
+  117  git status
+  118  git checkout master
+  119  git status
+  120  git branch history
+  121  git checkout history
+  122  git log
+  123  git branch
+  124  history > history.txt
